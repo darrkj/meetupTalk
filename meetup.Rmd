@@ -114,15 +114,3 @@ Compute a 4-way cross tabulation
 system.time(delayCarrierLoc <- rxLinMod(ArrDelay ~
                                           UniqueCarrier+Origin+Dest, data=airline,blocksPerRead=30,cube=TRUE))
 ```
-
-```{r}
-summary(cars)
-plot(cars)
-```
-
-You can also embed plots, for example:
-
-```{r fig.width=7, fig.height=6}
-plot(cars)
-```
-
