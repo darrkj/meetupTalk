@@ -1,0 +1,1531 @@
+<zuiprezi>
+  <version>5</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-283514.17094735446" y="-149361.40017752047" width="567028.3418947088" height="298722.80035504093"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+    </settings>
+    <object id="0_5249524" type="button" x="-3.998770031450631e-11" y="-1.1996310094351891e-11" r="-0.22622892021938368" s="506.9086085322911" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1117.1817529913014</w>
+        <h>585.824819648961</h>
+      </size>
+    </object>
+    <object id="0_5217676" type="image" x="-6235.490107248294" y="2593.8393339080267" r="-0.226228920219384" s="412.35151999650805">
+      <source w="500" h="500">311703515.png<url>311703515.png</url>
+      </source>
+      <sourceUrl>pairs2.png</sourceUrl>
+    <resource><id>
+        311703515
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/2/48eb5a71cb4483c81973819f18f9ca29dcb8c.png</url></resource></object>
+    <object id="0" type="image" x="-94311.05498820095" y="-23333.91890560321" r="0.07796527239936558" s="0.7351076870829365">
+      <source w="257" h="196">286987137.jpg<url>286987137.jpg</url>
+      </source>
+      <sourceUrl>ram.jpg</sourceUrl>
+    <resource><id>
+        286987137
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/3/8/e62d0610918861766b413eda3667922e072b4.jpg</url></resource></object>
+    <object id="6" type="label" x="-94490.04862453823" y="-24001.568988357725" r="0.07796527239936137" s="2.2039452479920563" class="head">
+      <textfield autoSize="true">
+        <x>-128.8</x>
+        <y>-18.3</y>
+        <text><![CDATA[What fits in RAM]]></text>
+        <w>257.65</w>
+        <h>36.65</h>
+        <annotations>r0-16 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="7" type="label" x="-94872.98501242083" y="-23565.85265536595" r="0.07796527239936195" s="1.5258082486098778" class="strong">
+      <textfield>
+        <x>-162.15</x>
+        <y>-110.5</y>
+        <text><![CDATA[Data from these sources work
+well within the confines of RAM. They range from a few megabytes to as large as a
+few gigabytes.  Outside of
+this problems start 
+to occur.]]></text>
+        <w>324.35</w>
+        <h>221</h>
+        <annotations>r0-29 { align: center; }
+r29-111 { align: center; }
+r111-138 { align: center; }
+r138-159 { align: center; }
+r159-168 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_2564126" type="image" x="-94310.78956087121" y="-23530.75149696676" r="0.07796527239936445" s="0.7130125403878329">
+      <source w="198" h="255">288444249.jpg<url>288444249.jpg</url>
+      </source>
+      <sourceUrl>funnel.jpg</sourceUrl>
+    <resource><id>
+        288444249
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/1/9/73f00479de3428300b84b312ed6abd505727b.jpg</url></resource></object>
+    <object id="1_2564126" type="image" x="-94439.41355369998" y="-23759.858788374702" r="0.07796527239936168" s="0.6366183396320049">
+      <source w="204" h="204">288444521.jpg<url>288444521.jpg</url>
+      </source>
+      <sourceUrl>csv.jpg</sourceUrl>
+    <resource><id>
+        288444521
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/3/b/2e02be779e0ee47c63dde3d7211c90aa65239.jpg</url></resource></object>
+    <object id="2_2564126" type="image" x="-94325.44197122389" y="-23759.72433751661" r="0.07796527239936155" s="0.45472738545143215">
+      <source w="204" h="204">288445101.jpg<url>288445101.jpg</url>
+      </source>
+      <sourceUrl>excel2.jpg</sourceUrl>
+    <resource><id>
+        288445101
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/2/b/c8a486f59a842e6e94fce326a5d57c939dfd8.jpg</url></resource></object>
+    <object id="3_2564126" type="image" x="-94216.61754444851" y="-23759.578434577412" r="0.0779652723993619" s="0.5772006279330083">
+      <source w="225" h="225">288445395.jpg<url>288445395.jpg</url>
+      </source>
+      <sourceUrl>flatfile.jpg</sourceUrl>
+    <resource><id>
+        288445395
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/5/d/0a9e4123cafdfa6d828b7326e027acaa6b6be.jpg</url></resource></object>
+    <object id="0_3255118" type="persistentgroup" x="-94328.01554907425" y="-23543.316019994098" r="0.0779652723993618" s="1.7244211885583811">
+      <m o="0"/>
+      <m o="0_2564126"/>
+      <m o="1_2564126"/>
+      <m o="2_2564126"/>
+      <m o="3_2564126"/>
+    </object>
+    <object id="11_2564126" type="image" x="53699.65604569488" y="-79526.80897539655" r="-0.22622892021938476" s="2.421265486490554">
+      <source w="135" h="69">288456443.jpg<url>288456443.jpg</url>
+      </source>
+      <sourceUrl>tape.jpg</sourceUrl>
+    <resource><id>
+        288456443
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/e/6/9eb97f7f51dc70a61cc5d5f37c154a4deb178.jpg</url></resource></object>
+    <object id="122_3228975" type="image" x="59985.47497564248" y="-79471.31347031063" r="0.13027652202833492" s="0.6591852157470695">
+      <source w="500" h="364">293692917.jpg<url>293692917.jpg</url>
+      </source>
+      <sourceUrl>einstein2.jpg</sourceUrl>
+    <resource><id>
+        293692917
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/2/a/ff054e80d4a80d8121539ced6e41b5dcfa67b.jpg</url></resource></object>
+    <object id="123_3228975" type="image" x="60434.647829993286" y="-79607.28075550617" r="0.13027652202833506" s="1.390686109171031">
+      <source w="213" h="237">293693307.jpg<url>293693307.jpg</url>
+      </source>
+      <sourceUrl>time.jpg</sourceUrl>
+    <resource><id>
+        293693307
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/e/8/607640551c338ffe491c69d2d1fc2040ab42b.jpg</url></resource></object>
+    <object id="6_2564126" type="label" x="58637.903360433425" y="-79870.64470915162" r="-0.22622888458981358" s="1.5730659207543223" class="head">
+      <textfield autoSize="true">
+        <x>-145.35</x>
+        <y>-18.3</y>
+        <text><![CDATA[Whats the difference]]></text>
+        <w>290.7</w>
+        <h>36.65</h>
+        <annotations>r0-20 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="7_2564126" type="label" x="58624.79623936297" y="-79797.69126055542" r="-0.22622888458981216" s="1.089045637445305" class="strong">
+      <textfield>
+        <x>-176.2</x>
+        <y>-17.5</y>
+        <text><![CDATA[So why try that here]]></text>
+        <w>352.4</w>
+        <h>35</h>
+        <annotations>r0-20 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="8_2564126" type="image" x="58240.69602872141" y="-79417.49427643594" r="-0.22622888458981347" s="1.7225845493336205">
+      <source w="102" h="102">288451059.jpg<url>288451059.jpg</url>
+      </source>
+      <sourceUrl>diskdrive.jpg</sourceUrl>
+    <resource><id>
+        288451059
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/c/f/56730c2999e806492820d85b8426dceef6063.jpg</url></resource></object>
+    <object id="9_2564126" type="image" x="58239.77549574251" y="-79651.94644308963" r="-0.22622888458981347" s="0.8612922746668102">
+      <source w="204" h="204">288451833.jpg<url>288451833.jpg</url>
+      </source>
+      <sourceUrl>database.jpg</sourceUrl>
+    <resource><id>
+        288451833
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/f/51aba2ab9c2a8a6f523c9ff9f1aa16be05cda.jpg</url></resource></object>
+    <object id="10_2564126" type="image" x="55872.619641069075" y="-79547.33317974517" r="-0.22622892021938473" s="0.4669583438231765">
+      <source w="700" h="519">288456001.jpg<url>288456001.jpg</url>
+      </source>
+      <sourceUrl>cd.jpg</sourceUrl>
+    <resource><id>
+        288456001
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/d/c/e5cdd036e93e1e35debb889b9e838da263d0e.jpg</url></resource></object>
+    <object id="134_3228975" type="button" x="67472.02220979203" y="-24262.66884504593" r="179.7650796442975" s="5.393940516641168" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>715.7676979303042</w>
+        <h>536.8257734477284</h>
+      </size>
+    </object>
+    <object id="17_2564126" type="label" x="67378.37667662266" y="-23291.53239975694" r="179.7650796442975" s="5.857148809133838" class="head">
+      <textfield autoSize="true">
+        <x>-220.1</x>
+        <y>-18.3</y>
+        <text><![CDATA[We need to use a different approach]]></text>
+        <w>440.2</w>
+        <h>36.65</h>
+        <annotations>r0-35 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="18_2564126" type="label" x="67431.99405609965" y="-23967.66074125425" r="179.7650796442975" s="4.183677720809896" class="strong">
+      <textfield>
+        <x>-229.05</x>
+        <y>-48.5</y>
+        <text><![CDATA[Let's use the disk, this is what tools like SAS 
+do.  The data is stored in a file that is saved on disk.]]></text>
+        <w>458.1</w>
+        <h>97</h>
+        <annotations>r0-49 { align: center; }
+r49-105 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="89_3228975" type="button" x="-5464.598948219776" y="8421.91924470676" r="-0.22622892021938756" s="92.19462638592654" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>700.2199155611329</w>
+        <h>626.1507327677608</h>
+      </size>
+    </object>
+    <object id="133_3228975" type="image" x="-5542.895638660213" y="-119.38443204533353" r="-0.22622892021938756" s="135.38288583370272">
+      <source w="160" h="121">293717861.jpg<url>293717861.jpg</url>
+      </source>
+      <sourceUrl>r.jpg</sourceUrl>
+    <resource><id>
+        293717861
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/a/e/db350f5e927fc1f2047247e9981bd55eb6552.jpg</url></resource></object>
+    <object id="20_2564126" type="label" x="-20513.155585679204" y="-60.703826798662696" r="-0.22622892021938834" s="44.13471385111858" class="head">
+      <textfield autoSize="true">
+        <x>-122.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[How does]]></text>
+        <w>245.2</w>
+        <h>36.65</h>
+        <annotations>r0-8 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="23_2564126" type="image" x="11889.766206154836" y="11773.595504888728" r="-1.7073525474011049" s="34.05623826820289">
+      <source w="257" h="196">288464815.jpg<url>288464815.jpg</url>
+      </source>
+      <sourceUrl>ram.jpg</sourceUrl>
+    <resource><id>
+        288464815
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/5/c/8d991ba7a521e9c206cbc9c43fea3a185a888.jpg</url></resource></object>
+    <object id="21_2564126" type="label" x="-5960.685866745606" y="13312.294781742301" r="-0.2262289202193881" s="31.52479560794179" class="strong">
+      <textfield>
+        <x>-260.45</x>
+        <y>-33</y>
+        <text><![CDATA[The default method is to throw everything into 
+RAM to analyze it.]]></text>
+        <w>520.9</w>
+        <h>66</h>
+        <annotations>r0-48 { align: center; }
+r48-66 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="24_2564126" type="image" x="67481.18628695954" y="-24812.28007324292" r="179.7650796442975" s="5.176687522021675">
+      <source w="102" h="102">288467345.jpg<url>288467345.jpg</url>
+      </source>
+      <sourceUrl>diskdrive.jpg</sourceUrl>
+    <resource><id>
+        288467345
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/7/e/e0ad22c3727a392c2a1464988db87990ad886.jpg</url></resource></object>
+    <object id="135_3228975" type="button" x="61204.13625371724" y="-24001.83496481181" r="179.7650796442975" s="4.989606275162509" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>653.9222495890034</w>
+        <h>571.1816805324959</h>
+      </size>
+    </object>
+    <object id="26_2564126" type="label" x="61302.33552911196" y="-23201.706987528705" r="179.7650796442975" s="4.183677720809894" class="head">
+      <textfield autoSize="true">
+        <x>-99.2</x>
+        <y>-18.3</y>
+        <text><![CDATA[Surprise]]></text>
+        <w>198.4</w>
+        <h>36.65</h>
+        <annotations>r0-8 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="27_2564126" type="label" x="61300.32439724952" y="-23700.862505527948" r="179.7650796442975" s="2.988341229149918" class="strong">
+      <textfield>
+        <x>-261.85</x>
+        <y>-64</y>
+        <text><![CDATA[If you have ever used this approach in SAS you are probably aware that you will hit the I/O brick wall.
+Two minutes to compute, two hours to read the data.  Time still seems to be slowing down]]></text>
+        <w>523.7</w>
+        <h>128</h>
+        <annotations>r0-104 { align: center; }
+r104-192 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="28_2564126" type="image" x="61190.60645344958" y="-24675.849889532423" r="179.7650796442975" s="4.230572865565234">
+      <source w="453" h="210">288487729.jpg<url>288487729.jpg</url>
+      </source>
+      <sourceUrl>timing.jpg</sourceUrl>
+    <resource><id>
+        288487729
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/9/d/c803cf6b6e57e337b50ab7ff077e244ba2909.jpg</url></resource></object>
+    <object id="142_3228975" type="button" x="55704.751215422424" y="-23978.642403189646" r="179.7650796442975" s="3.6202198578551688" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1137.652743660315</w>
+        <h>593.7296137864046</h>
+      </size>
+    </object>
+    <object id="30_2564126" type="label" x="55746.92454145823" y="-23534.59211416205" r="179.7650796442975" s="5.857148809133834" class="head">
+      <textfield autoSize="true">
+        <x>-99.2</x>
+        <y>-18.3</y>
+        <text><![CDATA[File Size]]></text>
+        <w>198.4</w>
+        <h>36.65</h>
+        <annotations>r0-9 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="31_2564126" type="label" x="55731.13340228166" y="-24371.57044787553" r="179.7650796442975" s="4.183677720809889" class="strong">
+      <textfield>
+        <x>-150.9</x>
+        <y>-48.5</y>
+        <text><![CDATA[Text File - 21,091,344 KB
+SAS File - 25,948,685 KB
+R File - 15,201,294 KB]]></text>
+        <w>301.85</w>
+        <h>97</h>
+        <annotations>r0-26 { align: center; }
+r26-51 { align: center; }
+r51-73 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="144_3228975" type="button" x="50584.74592328355" y="-24082.41812471347" r="179.7650796442975" s="3.951379573250154" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>849.7956252492954</w>
+        <h>637.3467189369717</h>
+      </size>
+    </object>
+    <object id="143_3228975" type="image" x="50584.107208453075" y="-23787.211203046118" r="179.7650796442975" s="8.533375603606883">
+      <source w="243" h="207">293732915.jpg<url>293732915.jpg</url>
+      </source>
+      <sourceUrl>question.jpg</sourceUrl>
+    <resource><id>
+        293732915
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/4/0/681617695d3747e424416385e22eedc7888c6.jpg</url></resource></object>
+    <object id="34_2564126" type="label" x="50669.88620462925" y="-24885.762121873056" r="179.7650796442975" s="4.183677720809895" class="strong">
+      <textfield>
+        <x>-263.3</x>
+        <y>-64</y>
+        <text><![CDATA[Did SAS create new data, did R lose some data? 
+Neither, SAS pads the fields as fixed strings so every space character counts.  R works more like a database, allowing it to reduce the redundancy.]]></text>
+        <w>526.6</w>
+        <h>128</h>
+        <annotations>r0-48 { align: center; }
+r48-195 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="1_3226184" type="image" x="-5757.699870849184" y="125543.1159418385" r="-0.22622892021938412" s="232.13037995489557">
+      <source w="450" h="89">293565259.png<url>293565259.png</url>
+      </source>
+      <sourceUrl>ERI Logo 2011 450x89.png</sourceUrl>
+    <resource><id>
+        293565259
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/e/6/f926abe12bff8bcdaa4483b21057578660e2f.png</url></resource></object>
+    <object id="2" type="label" x="-1322.377195780568" y="-137969.69304408057" r="-0.22622892021938681" s="308.3820191824725" class="head">
+      <textfield autoSize="true">
+        <x>-249.95</x>
+        <y>-18.3</y>
+        <text><![CDATA[Jumping out of Memory]]></text>
+        <w>499.9</w>
+        <h>36.65</h>
+        <annotations>r0-21 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="76_3228975" type="image" x="57213.317243176025" y="-79591.6878554958" r="-0.22622892021938584" s="0.9865746026545428">
+      <source w="300" h="279">293651931.png<url>293651931.png</url>
+      </source>
+      <sourceUrl>xout.png</sourceUrl>
+    <resource><id>
+        293651931
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/8/2/0d2e4d5e46eef0d502e11b8fd40af1ae95cbc.png</url></resource></object>
+    <object id="7_3228975" type="label" x="55535.08709821697" y="-79858.8551607964" r="-0.22622892021938343" s="1.8365328466409845" class="head">
+      <textfield autoSize="true">
+        <x>-214.05</x>
+        <y>-18.3</y>
+        <text><![CDATA[Would you try to put that in here]]></text>
+        <w>428.1</w>
+        <h>36.65</h>
+        <annotations>r0-33 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="9_3228975" type="image" x="55233.39519606387" y="-79544.82627568289" r="-0.22622892021938848" s="2.4212654864905185">
+      <source w="135" h="69">288456443.jpg<url>288456443.jpg</url>
+      </source>
+      <sourceUrl>tape.jpg</sourceUrl>
+    <resource><id>
+        288456443
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/e/6/9eb97f7f51dc70a61cc5d5f37c154a4deb178.jpg</url></resource></object>
+    <object id="10_3228975" type="label" x="53686.18017138607" y="-79873.34539710855" r="-0.22622892021938124" s="1.8365328466409836" class="head">
+      <textfield>
+        <x>-276</x>
+        <y>-34.65</y>
+        <text><![CDATA[Have you ever seen one of these, do you know what it is?]]></text>
+        <w>552</w>
+        <h>69.3</h>
+        <annotations>r0-56 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="11_3228975" type="button" x="-66986.10011594972" y="-50660.66564568803" r="-0.22622892021938773" s="31.842967731184455" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1463.7050507207632</w>
+        <h>1370.1587444856646</h>
+      </size>
+    </object>
+    <object id="35_3228975" type="image" x="-66972.48411166001" y="-47745.49967428217" r="-0.22622892021938756" s="55.8140214908223">
+      <source w="798" h="551">293613527.png<url>293613527.png</url>
+      </source>
+      <sourceUrl>datagrowth.png</sourceUrl>
+    <resource><id>
+        293613527
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/e/4/a702758b23b39e2d94e827f800862ccb13fc7.png</url></resource></object>
+    <object id="12_3228975" type="shape" x="-66929.12737534892" y="-37380.60341539453" r="-0.22622892021938634" s="51.49071070661687" class="line3">
+      <geom type="arrow">
+        <sp>-342.29071145485653 0</sp>
+        <ep>342.2907114548565 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="13_3228975" type="label" x="-67059.01646270583" y="-68622.15360016283" r="-0.2262289202193884" s="151.74320585433807" class="head">
+      <textfield autoSize="true">
+        <x>-156.75</x>
+        <y>-18.3</y>
+        <text><![CDATA[Data Sizes are Growing]]></text>
+        <w>313.5</w>
+        <h>36.65</h>
+        <annotations>r0-22 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="91_3228975" type="button" x="-80874.53793197377" y="-32488.781887867524" r="-0.22622892021938823" s="8.792673444218593" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>971.4527483646672</w>
+        <h>405.6487159988394</h>
+      </size>
+    </object>
+    <object id="14_3228975" type="label" x="-81027.88218620891" y="-32634.32375964981" r="-0.22622892021938773" s="55.30000213350507" class="head">
+      <textfield autoSize="true">
+        <x>-27.9</x>
+        <y>-18.3</y>
+        <text><![CDATA[Past]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="95_3228975" type="button" x="-55604.45986703686" y="-32588.92031524439" r="-0.2262289202193878" s="8.184279379043128" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1128.6972227275292</w>
+        <h>434.84533304015304</h>
+      </size>
+    </object>
+    <object id="16_3228975" type="label" x="-55227.61069577252" y="-32897.30440146209" r="-0.22622892021938773" s="55.300002133505046" class="head">
+      <textfield>
+        <x>-43</x>
+        <y>-18.3</y>
+        <text><![CDATA[Future]]></text>
+        <w>86.05</w>
+        <h>36.65</h>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="92_3228975" type="button" x="-68235.73881820134" y="-32539.56787531223" r="-0.22622892021938823" s="8.792673444218593" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1101.2154075805588</w>
+        <h>380.872083337656</h>
+      </size>
+    </object>
+    <object id="18_3228975" type="label" x="-68468.81435567081" y="-32676.717172531342" r="-0.226228920219384" s="55.300002133505416" class="head">
+      <textfield>
+        <x>-48.4</x>
+        <y>-18.3</y>
+        <text><![CDATA[Present]]></text>
+        <w>96.85</w>
+        <h>36.65</h>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="20_3228975" type="hotspot" x="-84029.7824122258" y="24674.2760614745" r="-0.2262289202193867" s="22.772367869987992">
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="21_3228975" type="shape" x="-80116.24777850055" y="-37314.21228494887" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.33650114741218 0</sp>
+        <ep>24.33650114741218 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="22_3228975" type="shape" x="-77673.35007041026" y="-37314.92846293478" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.33650114741218 0</sp>
+        <ep>24.33650114741218 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="23_3228975" type="shape" x="-75243.72945755019" y="-37329.73470432198" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.336501147412186 0</sp>
+        <ep>24.336501147412186 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="24_3228975" type="shape" x="-72761.88197578199" y="-37362.89901848086" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.336501147412175 0</sp>
+        <ep>24.336501147412175 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="25_3228975" type="shape" x="-70314.10475588054" y="-37359.69147019278" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.336501147412175 0</sp>
+        <ep>24.336501147412175 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="26_3228975" type="shape" x="-67943.94069557701" y="-37364.65431216681" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.33650114741218 0</sp>
+        <ep>24.33650114741218 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="27_3228975" type="shape" x="-65514.32008271698" y="-37379.460553553996" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.33650114741218 0</sp>
+        <ep>24.33650114741218 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="28_3228975" type="shape" x="-63071.42237462669" y="-37380.176731539905" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.336501147412186 0</sp>
+        <ep>24.336501147412186 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="29_3228975" type="shape" x="-60641.8017617666" y="-37394.98297292708" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.33650114741218 0</sp>
+        <ep>24.33650114741218 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="30_3228975" type="shape" x="-58141.797672957044" y="-37410.1334974107" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.33650114741218 0</sp>
+        <ep>24.33650114741218 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="31_3228975" type="shape" x="-55712.17706009694" y="-37424.93973879788" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.33650114741218 0</sp>
+        <ep>24.33650114741218 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="32_3228975" type="shape" x="-53223.18189246931" y="-37437.07577883289" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.33650114741218 0</sp>
+        <ep>24.33650114741218 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="33_3228975" type="shape" x="-82555.60930923319" y="-37307.97676812126" r="89.77377107978062" s="24.76280662888783" class="line3">
+      <geom type="line">
+        <sp>-24.336501147412186 0</sp>
+        <ep>24.336501147412186 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="34_3228975" type="persistentgroup" x="-66929.12737534892" y="-37380.60341539453" r="-0.2262289202193861" s="34.268497083498474">
+      <m o="12_3228975"/>
+      <m o="21_3228975"/>
+      <m o="22_3228975"/>
+      <m o="23_3228975"/>
+      <m o="24_3228975"/>
+      <m o="25_3228975"/>
+      <m o="26_3228975"/>
+      <m o="27_3228975"/>
+      <m o="28_3228975"/>
+      <m o="29_3228975"/>
+      <m o="30_3228975"/>
+      <m o="31_3228975"/>
+      <m o="32_3228975"/>
+      <m o="33_3228975"/>
+    </object>
+    <object id="45_3228975" type="image" x="-83483.9513644646" y="17524.50718642513" r="-0.22622892021938582" s="0.636618339632007">
+      <source w="204" h="204">288444521.jpg<url>288444521.jpg</url>
+      </source>
+      <sourceUrl>csv.jpg</sourceUrl>
+    <resource><id>
+        288444521
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/3/b/2e02be779e0ee47c63dde3d7211c90aa65239.jpg</url></resource></object>
+    <object id="50_3228975" type="label" x="-80389.64415690057" y="-40242.137937530955" r="-0.22622892021938085" s="1.574246605708612" class="head">
+      <textfield autoSize="true">
+        <x>-128.8</x>
+        <y>-18.3</y>
+        <text><![CDATA[Small Data Files]]></text>
+        <w>257.65</w>
+        <h>36.65</h>
+        <annotations>r0-16 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="53_3228975" type="image" x="-80784.79735847401" y="-39924.20298162308" r="-0.22622892021938606" s="0.4547273854514361">
+      <source w="204" h="204">288444521.jpg<url>288444521.jpg</url>
+      </source>
+      <sourceUrl>csv.jpg</sourceUrl>
+    <resource><id>
+        288444521
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/3/b/2e02be779e0ee47c63dde3d7211c90aa65239.jpg</url></resource></object>
+    <object id="51_3228975" type="label" x="-80785.84665478246" y="-39838.9488239137" r="-0.22622892021938645" s="1.0898630347213447" class="strong">
+      <textfield>
+        <x>-162.15</x>
+        <y>-17.5</y>
+        <text><![CDATA[csv files]]></text>
+        <w>324.35</w>
+        <h>35</h>
+        <annotations>r0-9 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="54_3228975" type="image" x="-80381.75611673515" y="-39824.75725474235" r="-0.22622892021938454" s="0.3248052753224518">
+      <source w="204" h="204">288445101.jpg<url>288445101.jpg</url>
+      </source>
+      <sourceUrl>excel2.jpg</sourceUrl>
+    <resource><id>
+        288445101
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/2/b/c8a486f59a842e6e94fce326a5d57c939dfd8.jpg</url></resource></object>
+    <object id="55_3228975" type="image" x="-80035.6962808574" y="-40084.20765053618" r="-0.2262289202193866" s="0.41228616280930197">
+      <source w="225" h="225">288445395.jpg<url>288445395.jpg</url>
+      </source>
+      <sourceUrl>flatfile.jpg</sourceUrl>
+    <resource><id>
+        288445395
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/5/d/0a9e4123cafdfa6d828b7326e027acaa6b6be.jpg</url></resource></object>
+    <object id="66_3228975" type="label" x="-80381.46274040749" y="-39748.495796033356" r="-0.22622892021938645" s="1.0898630347213447" class="strong">
+      <textfield>
+        <x>-162.15</x>
+        <y>-17.5</y>
+        <text><![CDATA[Excel workbooks]]></text>
+        <w>324.35</w>
+        <h>35</h>
+        <annotations>r0-15 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="67_3228975" type="label" x="-80030.48884313885" y="-39982.70570016732" r="-0.22622892021938645" s="1.0898630347213447" class="strong">
+      <textfield>
+        <x>-162.15</x>
+        <y>-17.5</y>
+        <text><![CDATA[Flat files]]></text>
+        <w>324.35</w>
+        <h>35</h>
+        <annotations>r0-10 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="9_3253695" type="persistentgroup" x="-80408.16774896067" y="-39929.74904080444" r="-0.22622892021938795" s="1.1057881462184307">
+      <m o="53_3228975"/>
+      <m o="51_3228975"/>
+      <m o="54_3228975"/>
+      <m o="55_3228975"/>
+      <m o="66_3228975"/>
+      <m o="67_3228975"/>
+    </object>
+    <object id="70_3228975" type="label" x="-71593.62278157362" y="-41816.54598671109" r="-0.226228920219386" s="5.8571488091338635" class="strong">
+      <textfield>
+        <x>-176.2</x>
+        <y>-17.5</y>
+        <text><![CDATA[Databases]]></text>
+        <w>352.4</w>
+        <h>35</h>
+        <annotations>r0-9 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="71_3228975" type="image" x="-68710.38654090615" y="-43000.45101144674" r="-0.22622892021938606" s="9.264473126608166">
+      <source w="102" h="102">288451059.jpg<url>288451059.jpg</url>
+      </source>
+      <sourceUrl>diskdrive.jpg</sourceUrl>
+    <resource><id>
+        288451059
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/c/f/56730c2999e806492820d85b8426dceef6063.jpg</url></resource></object>
+    <object id="72_3228975" type="image" x="-71596.42565241776" y="-42543.320230562334" r="-0.22622892021938606" s="4.632236563304083">
+      <source w="204" h="204">288451833.jpg<url>288451833.jpg</url>
+      </source>
+      <sourceUrl>database.jpg</sourceUrl>
+    <resource><id>
+        288451833
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/f/51aba2ab9c2a8a6f523c9ff9f1aa16be05cda.jpg</url></resource></object>
+    <object id="73_3228975" type="label" x="-68708.28439692955" y="-42439.38207526894" r="-0.226228920219386" s="5.8571488091338635" class="strong">
+      <textfield>
+        <x>-176.2</x>
+        <y>-17.5</y>
+        <text><![CDATA[Disk Drives]]></text>
+        <w>352.4</w>
+        <h>35</h>
+        <annotations>r0-11 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="10_3253695" type="persistentgroup" x="-70150.95358925159" y="-42592.38641468739" r="-0.22622892021938798" s="8.769453097134074">
+      <m o="70_3228975"/>
+      <m o="71_3228975"/>
+      <m o="72_3228975"/>
+      <m o="73_3228975"/>
+    </object>
+    <object id="74_3228975" type="label" x="-70154.56936350545" y="-43941.44573929497" r="-0.2262289202193876" s="8.200008332787396" class="head">
+      <textfield autoSize="true">
+        <x>-94.8</x>
+        <y>-18.3</y>
+        <text><![CDATA[Large Data Sets]]></text>
+        <annotations>r0-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="75_3228975" type="image" x="55546.7136085068" y="-79518.39865263969" r="-0.22622892021938584" s="0.9301925252123341">
+      <source w="255" h="197">293649713.jpg<url>293649713.jpg</url>
+      </source>
+      <sourceUrl>arrow.jpg</sourceUrl>
+    <resource><id>
+        293649713
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/b/f/d1958122c7df5a339d9050a87fa47685af21d.jpg</url></resource></object>
+    <object id="1_3255118" type="persistentgroup" x="55553.08173201469" y="-79547.33317974515" r="0.07796527239936223" s="2.839894442532837">
+      <m o="10_2564126"/>
+      <m o="9_3228975"/>
+      <m o="75_3228975"/>
+    </object>
+    <object id="80_3228975" type="label" x="57212.454983836484" y="-79817.85996529243" r="-0.2262289202193828" s="1.3183815903253073" class="head">
+      <textfield autoSize="true">
+        <x>-99.2</x>
+        <y>-18.3</y>
+        <text><![CDATA[No]]></text>
+        <w>198.4</w>
+        <h>36.65</h>
+        <annotations>r0-2 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="84_3228975" type="image" x="58954.79681542094" y="-79573.3624961021" r="-0.22622888458981066" s="1.044852929748512">
+      <source w="257" h="196">293660263.jpg<url>293660263.jpg</url>
+      </source>
+      <sourceUrl>ram.jpg</sourceUrl>
+    <resource><id>
+        293660263
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/6/3/76bbbd7cd8830f4da4123f02fb055d3dca0b8.jpg</url></resource></object>
+    <object id="86_3228975" type="label" x="-57996.288843247574" y="-58291.65317271378" r="-0.044300292034419035" s="23.21513470215803" class="head">
+      <textfield autoSize="true">
+        <x>-172.45</x>
+        <y>-18.3</y>
+        <text><![CDATA[Data of the future]]></text>
+        <w>344.9</w>
+        <h>36.65</h>
+        <annotations>r0-18 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="87_3228975" type="label" x="-57939.57651041173" y="-52042.63190544631" r="-0.04430029203441895" s="16.07201633226328" class="strong">
+      <textfield>
+        <x>-256.35</x>
+        <y>-33</y>
+        <text><![CDATA[An HDFS cluster will not even fit on a machine.  This is a talk for another day.]]></text>
+        <w>512.7</w>
+        <h>66</h>
+        <annotations>r0-80 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="88_3228975" type="image" x="-57984.36978146863" y="-54585.01014659141" r="-0.04430029203441902" s="21.262883886802303">
+      <source w="342" h="147">288460307.jpg<url>288460307.jpg</url>
+      </source>
+      <sourceUrl>hdfscluster.jpg</sourceUrl>
+    <resource><id>
+        288460307
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/b/5/a95692bb9fa39ecbb0e91e0985b70b6d06743.jpg</url></resource></object>
+    <object id="90_3228975" type="button" x="-80382.15961903956" y="-39929.31346202224" r="-0.2262289202193872" s="1.8374303054254943" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>595.9670518435759</w>
+        <h>446.975288882682</h>
+      </size>
+    </object>
+    <object id="93_3228975" type="button" x="-70202.43878690881" y="-42512.882292063725" r="-0.2262289202193853" s="8.792673444218593" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>626.0463420355745</w>
+        <h>469.53475652668067</h>
+      </size>
+    </object>
+    <object id="94_3228975" type="button" x="-57565.639051532744" y="-54272.562925197286" r="-0.04430029203441912" s="14.731702882277556" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1039.433311136076</w>
+        <h>724.4476047009651</h>
+      </size>
+    </object>
+    <object id="96_3228975" type="label" x="8890.032053169669" y="-176.8501139478592" r="-0.22622892021938834" s="44.134713851118576" class="head">
+      <textfield autoSize="true">
+        <x>-33.85</x>
+        <y>-18.3</y>
+        <text><![CDATA[Work]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="102_3228975" type="image" x="58608.45411569242" y="-79559.89747265064" r="-0.22622888458981497" s="0.8929645703646373">
+      <source w="421" h="355">293660077.png<url>293660077.png</url>
+      </source>
+      <sourceUrl>xoutarrow.png</sourceUrl>
+    <resource><id>
+        293660077
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/9/c/9a3c50a3e9d14d6707539f4d44d93c5ebf15e.png</url></resource></object>
+    <object id="4_3255118" type="persistentgroup" x="58620.52058194745" y="-79534.72035976278" r="0.07796527239936119" s="2.1355155742407796">
+      <m o="8_2564126"/>
+      <m o="9_2564126"/>
+      <m o="84_3228975"/>
+      <m o="102_3228975"/>
+    </object>
+    <object id="128_3228975" type="image" x="61968.47709288391" y="-79536.53946733588" r="-0.22622888458981216" s="0.5935095948663266">
+      <source w="1552" h="407">293698875.png<url>293698875.png</url>
+      </source>
+      <sourceUrl>Full RAM.png</sourceUrl>
+    <resource><id>
+        293698875
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/a/b/5430c651175e64070c40fbd854985053abf5d.png</url></resource></object>
+    <object id="119_3228975" type="label" x="60238.821109214834" y="-79872.78462604132" r="0.13027655765790788" s="1.5730659207543294" class="head">
+      <textfield autoSize="true">
+        <x>-160.85</x>
+        <y>-18.3</y>
+        <text><![CDATA[What happens if you do]]></text>
+        <w>321.7</w>
+        <h>36.65</h>
+        <annotations>r0-22 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="124_3228975" type="label" x="60466.7418515722" y="-79315.77629935993" r="0.13027652202833465" s="1.132974589565279" class="strong">
+      <textfield>
+        <x>-144.1</x>
+        <y>-48.5</y>
+        <text><![CDATA[You may experience 
+time start to slow down, or 
+it will seem that way.]]></text>
+        <w>288.2</w>
+        <h>97</h>
+        <annotations>r0-20 { align: left; }
+r20-49 { align: left; }
+r49-71 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="126_3228975" type="label" x="61970.5696058968" y="-79774.47598937759" r="-0.22622885869899373" s="1.0125349771814813" class="strong">
+      <textfield autoSize="true">
+        <x>-142.5</x>
+        <y>-17.5</y>
+        <text><![CDATA[There is no memory left]]></text>
+        <w>285</w>
+        <h>35</h>
+        <annotations>r0-23 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="127_3228975" type="label" x="61959.48079994092" y="-79868.06965315946" r="-0.22622885869899356" s="1.456899644862337" class="head">
+      <textfield autoSize="true">
+        <x>-99.2</x>
+        <y>-18.3</y>
+        <text><![CDATA[Why]]></text>
+        <w>198.4</w>
+        <h>36.65</h>
+        <annotations>r0-3 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="130_3228975" type="label" x="52274.99001203939" y="56889.9058689634" r="-0.2262289202193878" s="39.73402160123282" class="strong">
+      <textfield>
+        <x>-213.15</x>
+        <y>-33</y>
+        <text><![CDATA[The RevoScaleR package from Revolution Analytics makes this possible]]></text>
+        <w>426.35</w>
+        <h>66</h>
+        <annotations>r0-68 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="131_3228975" type="label" x="52843.34742717389" y="53744.89120285858" r="-0.22622892021938823" s="39.73402160123282" class="head">
+      <textfield autoSize="true">
+        <x>-129.25</x>
+        <y>-18.3</y>
+        <text><![CDATA[How do we do this]]></text>
+        <w>258.5</w>
+        <h>36.65</h>
+        <annotations>r0-17 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="136_3228975" type="image" x="53291.37318389685" y="66863.76008780565" r="-0.22622892021938848" s="138.17166372106755">
+      <source w="299" h="69">293726029.jpg<url>293726029.jpg</url>
+      </source>
+      <sourceUrl>revoR.jpg</sourceUrl>
+    <resource><id>
+        293726029
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/6/7/a7b847b5607cee75d280962b928cfdc2b5917.jpg</url></resource></object>
+    <object id="147_3228975" type="button" x="44152.67092017979" y="-24170.58558201764" r="179.7650796442975" s="3.919471863505262" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="145_3228975" type="label" x="44184.78007578486" y="-23505.596251366012" r="179.7650796442975" s="5.8571488091338315" class="strong">
+      <textfield autoSize="true">
+        <x>-67.9</x>
+        <y>-17.5</y>
+        <text><![CDATA[bit.ly/RN16tt]]></text>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="146_3228975" type="label" x="44156.79840725052" y="-23201.712010479827" r="179.7650796442975" s="5.8571488091338315" class="head">
+      <textfield autoSize="true">
+        <x>-93.2</x>
+        <y>-18.3</y>
+        <text><![CDATA[Interesting Use]]></text>
+        <annotations>r0-15 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="148_3228975" type="button" x="57707.55771273238" y="63402.73579791835" r="-0.22622892021938829" s="53.694287296855784" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1360.0867611044723</w>
+        <h>1020.0650708283548</h>
+      </size>
+    </object>
+    <object id="150_3228975" type="image" x="45139.373470425955" y="-24433.4918675777" r="179.7650796442975" s="2.183751881537191">
+      <source w="821" h="620">293788971.png<url>293788971.png</url>
+      </source>
+      <sourceUrl>rblog.png</sourceUrl>
+    <resource><id>
+        293788971
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/f/8/8cd3c704579d43b3dd9b275baa8f43ad1c0a6.png</url></resource></object>
+    <object id="151_3228975" type="image" x="42745.72003933547" y="-24259.597419488597" r="179.7650796442975" s="1.3134507653787748">
+      <source w="975" h="742">293789657.gif<url>293789657.gif</url>
+      </source>
+      <sourceUrl>time-flies.gif</sourceUrl>
+    <resource><id>
+        293789657
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/8/6/7ec540a62e8075fa84148a5f6fb2211939808.gif</url></resource></object>
+    <object id="152_3228975" type="label" x="42743.175092720296" y="-24920.051685763767" r="179.7650796442975" s="5.8571488091338315" class="strong">
+      <textfield autoSize="true">
+        <x>-102.65</x>
+        <y>-17.5</y>
+        <text><![CDATA[Time is flying again]]></text>
+        <annotations>r0-20 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="1" type="label" x="-1229.9211218788196" y="-112584.31707085772" r="-0.2262289202193877" s="342.86356494381505" class="strong">
+      <textfield>
+        <x>-144.6</x>
+        <y>-48.5</y>
+        <text><![CDATA[Kenny Darrell
+Data Mining Analyst 
+Elder Research, Inc]]></text>
+        <w>289.2</w>
+        <h>97</h>
+        <annotations>r0-14 { align: center; }
+r14-35 { align: center; }
+r35-54 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_5218640" type="button" x="53606.20575455107" y="60244.17104749168" r="-0.22622892021938842" s="38.603431587265014" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_5218640" type="button" x="-3179.2473488357073" y="3392.6561450937534" r="-0.22622892021938748" s="40.22522033908725" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_5249524" type="button" x="53715.65930426071" y="-79594.30899545913" r="-0.22622892021938343" s="1.5270737833987662" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="2_5249524" type="button" x="55559.90762263755" y="-79565.29081409301" r="-0.226228920219384" s="1.3408484800683644" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="3_5249524" type="button" x="57192.75739058864" y="-79603.56953250493" r="-0.22622892021938595" s="0.9625474190516202" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_5249524" type="button" x="-94537.58353080547" y="-23637.033007684957" r="-0.22622892021938773" s="1.774580581187256" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1224.3619489559164</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="9_5249524" type="button" x="58591.05726549945" y="-79507.14453400711" r="-0.22622888458981277" s="1.5391958451480903" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="10_5249524" type="button" x="60239.43285965495" y="-79583.7294501694" r="0.1302765576579086" s="1.1902022759421433" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="11_5249524" type="button" x="61993.08179927789" y="-79635.55548241988" r="-0.2262288586989939" s="1.1282265270907335" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="12_5249524" type="label" x="-62774.58956221323" y="-24185.144578574298" r="-0.044300292034419125" s="4.39669414638217" class="strong">
+      <textfield autoSize="true">
+        <x>-53.05</x>
+        <y>-17.5</y>
+        <text><![CDATA[Questions]]></text>
+        <annotations>r0-9 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="13_5249524" type="label" x="-62774.45224759344" y="-23911.511527991777" r="-0.044300292034419125" s="4.39669414638217" class="strong">
+      <textfield autoSize="true">
+        <x>-115.5</x>
+        <y>-17.5</y>
+        <text><![CDATA[Onto a Demonstration]]></text>
+        <annotations>r0-20 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="14_5249524" type="button" x="-62724.849625573435" y="-23905.959553082266" r="-0.04430029203441912" s="3.3353672448580505" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="0_473107" type="button" x="-67141.05" y="-51262.35" r="-0.22622892021938773" s="73.90091194204767" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_473107" type="button" x="-67141.05" y="-51261.7" r="-0.22622892021938773" s="92.37613992755958" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1210.2040816326532</w>
+        <h>600</h>
+      </size>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="0_5249524"/>
+    </s>
+    <s>
+      <eagle o="1_5218640"/>
+    </s>
+    <s>
+      <eagle o="91_3228975"/>
+    </s>
+    <s>
+      <eagle o="11_3228975"/>
+    </s>
+    <s>
+      <eagle o="90_3228975"/>
+    </s>
+    <s>
+      <eagle o="8_5249524"/>
+    </s>
+    <s>
+      <eagle o="92_3228975"/>
+    </s>
+    <s>
+      <eagle o="1_473107"/>
+    </s>
+    <s>
+      <eagle o="93_3228975"/>
+    </s>
+    <s>
+      <eagle o="1_5249524"/>
+    </s>
+    <s>
+      <eagle o="2_5249524"/>
+    </s>
+    <s>
+      <eagle o="3_5249524"/>
+    </s>
+    <s>
+      <eagle o="9_5249524"/>
+    </s>
+    <s>
+      <eagle o="10_5249524"/>
+    </s>
+    <s>
+      <eagle o="11_5249524"/>
+    </s>
+    <s>
+      <eagle o="134_3228975"/>
+    </s>
+    <s>
+      <eagle o="135_3228975"/>
+    </s>
+    <s>
+      <eagle o="0_5218640"/>
+    </s>
+    <s>
+      <eagle o="142_3228975"/>
+    </s>
+    <s>
+      <eagle o="144_3228975"/>
+    </s>
+    <s>
+      <eagle o="147_3228975"/>
+    </s>
+    <s>
+      <eagle o="95_3228975"/>
+    </s>
+    <s>
+      <eagle o="0_473107"/>
+    </s>
+    <s>
+      <eagle o="94_3228975"/>
+    </s>
+    <s>
+      <eagle o="14_5249524"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('PTSans.swf');
+	fontFamily: strong;
+}
+
+@font-face
+{
+	src: url('CrimsonText.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('OpenSans-Bold.swf');
+	fontFamily: head;
+}
+
+background
+{
+	gradStart: #808080;
+	gradEnd: #808080;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	color: #fff808;
+	fontFamily: head;
+}
+
+text.subtitle
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+text.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+frame.circle
+{
+	borderThickness: 0;
+	gradEndColor: #333;
+	borderColor: #999;
+	gradStartColor: #333;
+}
+
+frame.bracket
+{
+	borderThickness: 0;
+	thickness: 7;
+	gradEndColor: #c5c3c3;
+	borderColor: #fff;
+	gradStartColor: #fff;
+}
+
+frame.rectangle
+{
+	gradStartColor: #000;
+	borderThickness: 0;
+	gradEndColor: #000;
+	borderColor: #fff;
+	radius: 0;
+}
+
+arrow
+{
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	borderColor: #fff;
+	gradStartColor: #fff808;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	gradEndColor: #fff;
+	color: #fff;
+	gradStartColor: #fff;
+}
+
+line-arrow.style2
+{
+	gradEndColor: #c5c3c3;
+	color: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	gradEndColor: #fff808;
+	color: #fff808;
+	gradStartColor: #fff808;
+}
+
+line-arrow.style4
+{
+	gradEndColor: #333;
+	color: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style5
+{
+	gradEndColor: #000;
+	color: #000;
+	gradStartColor: #000;
+}
+
+circle
+{
+	thickness: 100;
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+}
+
+shape
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	thickness: 100;
+	gradEndAlpha: 0.8;
+	gradStartAlpha: 0.7;
+	radius: 0;
+}
+
+shape.style1
+{
+	borderThickness: 0;
+	gradEndColor: #fff;
+	borderColor: #fff;
+	gradStartColor: #fff;
+}
+
+shape.style2
+{
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	borderColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	borderColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+shape.style4
+{
+	borderThickness: 0;
+	gradEndColor: #333;
+	borderColor: #333;
+	gradStartColor: #333;
+}
+
+shape.style5
+{
+	borderThickness: 0;
+	gradEndColor: #000;
+	borderColor: #000;
+	gradStartColor: #000;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	color: #ffff0d;
+	alpha: 0.3;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0;
+	thickness: 100;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	radius: 0;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0;
+	thickness: 100;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	radius: 0;
+}
+
+Background
+{
+	gradStart: #fff;
+	gradEnd: #fff;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	color: #004f75;
+	fontFamily: head;
+}
+
+.line5
+{
+	gradEndColor: #333;
+	color: #333;
+	gradStartColor: #333;
+}
+
+.poly5
+{
+	borderThickness: 9;
+	gradEndColor: #fff;
+	borderColor: #333;
+	color: #fff;
+	gradStartColor: #fff;
+}
+
+ZLabel.strong
+{
+	color: #318bff;
+	fontFamily: strong;
+}
+
+.line1
+{
+	gradEndColor: #3fc0ff;
+	color: #3fc0ff;
+	gradStartColor: #3fc0ff;
+}
+
+.poly1
+{
+	borderThickness: 9;
+	gradEndColor: #fff;
+	borderColor: #3fc0ff;
+	color: #fff;
+	gradStartColor: #fff;
+}
+
+ZLabel.body
+{
+	color: #333;
+	fontFamily: body;
+}
+
+ZFrame.circle
+{
+	borderThickness: 0;
+	thickness: 10;
+	gradEndColor: #004f75;
+	borderColor: #004f75;
+	gradStartColor: #004f75;
+}
+
+.line4
+{
+	gradEndColor: #ffbe00;
+	color: #ffbe00;
+	gradStartColor: #ffbe00;
+}
+
+.poly4
+{
+	borderThickness: 0;
+	gradEndColor: #004f75;
+	borderColor: #004f75;
+	color: #fff;
+	gradStartColor: #004f75;
+}
+
+ZFrame.bracket
+{
+	borderThickness: 0;
+	thickness: 10;
+	gradEndColor: #b2b2b2;
+	borderColor: #b2b2b2;
+	gradStartColor: #b2b2b2;
+}
+
+.line2
+{
+	gradEndColor: #f00;
+	color: #f00;
+	borderColor: #fff;
+	gradStartColor: #f00;
+}
+
+.poly2
+{
+	borderThickness: 0;
+	gradEndColor: #3fc0ff;
+	borderColor: #3fc0ff;
+	color: #fff;
+	gradStartColor: #3fc0ff;
+}
+
+ZFrame.roundrect
+{
+	borderThickness: 0;
+	gradEndColor: #3fc0ff;
+	borderColor: #3fc0ff;
+	gradStartColor: #3fc0ff;
+}
+
+ZArrow
+{
+	borderThickness: 0;
+	gradEndColor: #333;
+	lockTintAlpha: 0;
+	borderColor: #fff;
+	gradStartColor: #333;
+}
+
+.line3
+{
+	gradEndColor: #004f75;
+	color: #004f75;
+	gradStartColor: #004f75;
+}
+
+.poly3
+{
+	borderThickness: 9;
+	gradEndColor: #fff;
+	borderColor: #004f75;
+	color: #fff;
+	gradStartColor: #fff;
+}
+
+ZLine
+{
+	lockTintAlpha: 0;
+	color: #333;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZMarker
+{
+	color: #00e1ff;
+	alpha: 0.3;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZPath
+{
+	thickness: 3;
+	color: #40abe6;
+	textColor: #fff;
+	alpha: 1;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+]]></style>
+  <hash>-6f9fa879</hash>
+<sync><oid>bt5u1eksgou6</oid><hash>-6f9fa879</hash></sync><config>M5pnlC7ErHE8RAmG/Z1c0J/RcHEcCx8UStlxZJe57uhVt+cWCfcWhWRxQmiuxY9UcPU+Ui8e52Nd3ws/l1Jf4alnbOFvwP6tu/un8eN2r2Zfjb8ocWPQ0TxWAn4RCDRXZKy6EH52In07iw93ZHHlOklEbH/8vHDnLC80gekYmnh4B97GglxwkXBXPh8MoTgilr4/elg+Q7Pny0xA70wJqS5XRRUVMTZ+VhlXCWEqTY2BAIDiAh8pNm9+gUXqgZ9ZwtmZl55L/u9uoaAQynLAyo9JRAB0iJeUCqJZ+X3/bgBr3SyZs5wEjdKe5KRGMoBykejjXH8tmmiPZcr1coaR/w==</config></zuiprezi>
